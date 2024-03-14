@@ -7,7 +7,7 @@ export default function Home() {
       <div className="w-full flex-col justify-around sm:flex md:flex-row">
         <div className="max-w-[800px] max-h-[600px] justify-center items-center">
           <img
-            src="https://penalapabar.com.br/img/penalapa.jpeg"
+            src="/penalapa.jpg"
             alt=""
             className="w-full h-full flex rounded-md shadow-md shadow-black/50"
           />
