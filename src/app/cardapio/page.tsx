@@ -4,6 +4,7 @@ const images = [
     {id: "3", image: "/0003.jpg"},
     {id: "4", image: "/0004.jpg"},
     {id: "5", image: "/0005.jpg"},
+    {id: "15", image: "/003.jpg"},
     {id: "6", image: "/0006.jpg"},
     {id: "7", image: "/0007.jpg"},
     {id: "8", image: "/0008.jpg"},
