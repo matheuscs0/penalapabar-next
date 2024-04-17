@@ -13,7 +13,7 @@ export const HomeComponent = () => {
             <h1 className="text-[80px] font-bold text-center">Pé na <span className="text-[#ff9600]">Lapa</span></h1>
             <div className="bg-[#ff9600] rounded-md p-2 shadow-md mb-2 shadow-black/50" ><p>Bar - Restaurante</p></div>
             <p className="text-white text-lg">Desde 2017</p>
-            <Link href='/' className="bg-[#ff9600] p-1 shadow-lg shadow-black/50"><p className="w-full flex h-full bg-white text-black text-lg p-1">Ver menu</p></Link>
+            <Link href='/cardapio' className="bg-[#ff9600] p-1 shadow-lg shadow-black/50"><p className="w-full flex h-full bg-white text-black text-lg p-1">Ver menu</p></Link>
         </div>
         <div className="hidden sm:flex md:flex">
           <FotoHome href="/drink.jpg" />
